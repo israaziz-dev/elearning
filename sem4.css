@@ -1,0 +1,55 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+    font-family:  sans-serif;
+}
+.main{
+    
+}
+.cards{
+    width: 20%;
+    display:inline-block;
+    border-radius: 2px;
+    margin: 10px;
+    background-color: lavenderblush;
+}
+.cards:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.image img{
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.title{
+    text-align: center;
+    padding: 2px;
+}
+.des{
+    text-align: center;
+    padding: 0.05px;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color:black;
+    color: white;
+    transition: .5s;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
